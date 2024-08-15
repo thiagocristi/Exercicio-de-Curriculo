@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    
+}
+h2{
+    color: white;
+    margin-left: 3%;
+    border-bottom: 2px solid rgb(170, 7, 245);
+    margin-right: 3%;
+}
+h3 {
+    color: white;
+    margin-left: 3%;
+    border-bottom: 2px solid rgb(170, 7, 245);
+    margin-right: 3%;
+
+
+}
+h5{
+    color: white;
+    margin-left: 3%;
+    margin-top: -0.5%;
+    font-style: italic;
+    
+    
+
+
+}
+li {`
+   color: white;
+    margin-left: 3%;
+
+}
+ul{
+    list-style: disc inside;
+    color: white;
+}
